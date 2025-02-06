@@ -6,5 +6,7 @@ class Program
     {
         int a = 5, b = 3;
         Console.WriteLine("Sum: " + (a + b));
+        Console.WriteLine("Difference: " + (a - b));
+        Console.WriteLine("Product: " + (a * b));
     }
 }
