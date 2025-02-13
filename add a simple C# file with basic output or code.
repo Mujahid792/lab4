@@ -1,0 +1,9 @@
+using System;
+
+class NewFile
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, this is my new file!");
+    }
+}
